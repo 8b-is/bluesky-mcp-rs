@@ -2,6 +2,12 @@
 
 🦋 **Bluesky + AT Protocol MCP server in Rust.** Stateless. Fast. MCP 2026-07-28.
 
+## Implementation status
+
+This is a prototype. Bluesky, couchsky, and music advancement are not implemented
+and return explicit errors without performing external actions. The two music
+read tools return labeled static samples. Full MCP interoperability remains unverified.
+
 ## Tools
 
 | Tool | Description |
